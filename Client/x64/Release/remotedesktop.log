@@ -1,0 +1,9 @@
+﻿  client.cpp
+D:\RemoteDesktop\remotedesktop\client.cpp(275,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\RemoteDesktop\remotedesktop\client.cpp(283,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  2 of 168 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  remotedesktop.vcxproj -> D:\RemoteDesktop\x64\Release\remotedesktop.exe
